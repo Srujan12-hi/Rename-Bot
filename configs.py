@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Sruja_12
 
 import os
 
@@ -22,7 +22,7 @@ I am Telegram Files Rename Bot.
 
 Send me a File to Rename.
 
-Made by @AbirHasan2005
+Made by @Sruja_12
     """
     PROGRESS = """
 Percentage : {0}%
